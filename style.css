@@ -1,0 +1,19 @@
+body {
+    background-color:#33FF99;
+}
+
+footer{
+    background-color:#6699FF;
+}
+
+.navbar{
+    background-color:#6699FF;
+}
+li{
+     background-color:#33FF99;
+}
+
+
+.jumbotron{
+    background-image:url("Images/1.jpg");
+}
